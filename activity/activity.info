@@ -1,0 +1,7 @@
+[Activity]
+name = Latin Squares
+bundle_id = org.sugarlabs.LatinSquares
+exec = sugar-activity3 activity.LatinSquaresActivity
+icon = activity-latinsquares
+activity_version = 1
+license = GPLv3+
